@@ -72,3 +72,5 @@ Ensure you have the following installed on your system:
 ## License
 
 This project is licensed under the MIT License.
+
+<img width="1460" alt="Screenshot 2025-03-24 at 1 35 09 AM" src="https://github.com/user-attachments/assets/098a1f62-8267-4f32-a81d-21cbc0ee795f" />
